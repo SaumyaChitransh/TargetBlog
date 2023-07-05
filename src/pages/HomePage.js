@@ -5,7 +5,7 @@ const HomePage = () => {
       <div className="App">
         <NavBar />
       </div>
-      <h1>Hello, welcome to my Experience Cloud blog!</h1>
+      <h1>Welcome to my Experience Cloud blog!</h1>
       <img
         src="https://static.8awake.com/uploads/2021/11/adobe-experience-cloud-marketing-cloud-600x265.png"
         width="600"
